@@ -1,0 +1,14 @@
+#text-input{
+    width: 80%;
+    height: 20vh;
+    display: block;
+    font-size: 24px;
+    letter-spacing: 0.5px;
+    margin: 1rem;
+    padding: 20px;
+}
+#btn-element{
+    padding: 12px 20px;
+    border: none;
+    font-size: 14px;
+}
